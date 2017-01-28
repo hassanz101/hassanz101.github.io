@@ -1,23 +1,33 @@
 h1 {
-  font-size: 70px;
+  font-size: 65px;
   font-family: Trebuchet MS, sans-serif;
   text-decoration: underline;
   text-align: center;
 }
+h2 {
+  font-size: 48px;
+  font-family: Calibri, serif;
+  text-decoration-style: underline;
+}
+h3 {
+  font-size: 30px
+  font-family:sans-serif;
+}
 img {
-  height: auto;
-  width: auto;
+  height:100px;
+  width: 100px;
   position: absolute;
-  border: dark grey 5px;
-  right: auto;
+  border: black 5px;
+  right: 100px;
+
 }
 body {
   background-image: url("backgroundimage.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
-.skill, .workexperience, .extracurricular, .volunteer {
-border-top-color: inherit;
+#workexperience, #address, #profile {
+border-bottom: 2px black
 }
 .address {
   text-align: center;
