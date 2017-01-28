@@ -11,7 +11,7 @@ img {
   border: dark grey 5px;
   right: auto;
 }
-.background {
+body {
   background-image: ("backgroundimage.png");
   background-size: cover;
 }
