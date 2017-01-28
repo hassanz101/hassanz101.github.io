@@ -12,7 +12,7 @@ img {
   right: auto;
 }
 .background {
-  background-image: url("backgroundimage.png");
+  background-image: (/"backgroundimage.png");
   background-size: cover;
 }
 .skill, .workexperience, .extracurricular, .volunteer {
