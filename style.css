@@ -5,8 +5,8 @@ h1 {
   text-align: center;
 }
 img {
-  height: 300px;
-  width: 300px;
+  height: auto;
+  width: auto;
   position: absolute;
   border: dark grey 5px;
   right: auto;
