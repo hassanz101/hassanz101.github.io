@@ -5,15 +5,16 @@ h1 {
   text-align: center;
 }
 img {
-  height: auto;
-  width: auto;
-  position: static;
+  height: 300px;
+  width: 300px;
+  position: absolute;
   border: dark grey 5px;
   right: auto;
 }
 body {
-  background-image: ("backgroundimage.png");
+  background-image: url("backgroundimage.png");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 .skill, .workexperience, .extracurricular, .volunteer {
 border-top-color: inherit;
