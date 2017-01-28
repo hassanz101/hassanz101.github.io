@@ -1,21 +1,28 @@
 h1 {
-  font-size: 65px;
+  font-size: 60px;
   font-family: Trebuchet MS, sans-serif;
   text-decoration: underline;
+  color: black
   text-align: center;
 }
 h2 {
-  font-size: 48px;
-  font-family: Calibri, serif;
-  text-decoration-style: underline;
+  font-size: 50px;
+text-decoration: underline;
 }
+
 h3 {
   font-size: 30px
   font-family:sans-serif;
+  border-style: dashed;
 }
+
+p {
+  font-family: Tristan;
+}
+
 img {
-  height:100px;
-  width: 100px;
+  height:130px;
+  width: 130px;
   position: absolute;
   border: black 5px;
   right: 100px;
@@ -26,10 +33,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-#workexperience, #address, #profile {
+#workexperience, #address, #profile, #volunteerwork, #extracurric {
 border-bottom: 2px black
-}
-.address {
-  text-align: center;
-  text-decoration-style: dotted;
+text-align: center;
 }
